@@ -1,4 +1,4 @@
-# Vítejte u Apptiva! 🚀
+# Vítejte u Apptivo.cz! 🚀
 
 Apptivo je **produktivní platforma**, která udržuje všechnu vaší práci na jednom místě: Úkoly, dokumentace, chat, cíle a více!
 
