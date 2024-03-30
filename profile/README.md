@@ -1,5 +1,5 @@
-# Vítejte u Apptivo.cz! 🚀
+# Welcome to Apptivo.cz! 🚀
 
-Apptivo je **produktivní platforma**, která udržuje všechnu vaší práci na jednom místě: Úkoly, dokumentace, chat, cíle a více!
+We're your online key solution for streamlining and managing your company efficiently.
 
-S Apptivem, nemusíte měnit jak pracujete aby jste ušetřily jeden den v týdnu, každá z naších funkcí a integrací vám povoluje si nastavit vaší workflow přesně tak jak potřebujete. ✨
+With Apptivo, you can revolutionize your workflow with tailored internal and external solutions, without the need to change the way you work.
